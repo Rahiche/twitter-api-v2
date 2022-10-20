@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   twitter_api_core: ^1.3.4
-  http: ^0.13.5
+  http: ^0.13.4
   json_annotation: ^4.7.0
   freezed_annotation: ^2.1.0
 
